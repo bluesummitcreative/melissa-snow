@@ -63,6 +63,4 @@
 		return $settings;
 	}
 	add_filter( 'tiny_mce_before_init', 'remove_h1_from_editor' );
-	
-	}
 ?>
