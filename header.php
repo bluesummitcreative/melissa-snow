@@ -16,7 +16,7 @@
     <header class="navigation" id="top">
         <div class="container">
             <div class="secondary-nav">
-                <span><a href="mailto:<?php esc_html( get_bloginfo( 'admin_email' ) ); ?>"><i class="icon_mail"></i><?php esc_html( get_bloginfo( 'admin_email' ) ); ?></a></span>
+                <span><a href="mailto:<?php echo esc_html( get_bloginfo( 'admin_email' ) ); ?>"><i class="icon_mail"></i><?php echo esc_html( get_bloginfo( 'admin_email' ) ); ?></a></span>
                 <span><i class="icon_phone"></i>(303) 233-3977</span>
             </div>
             <!--/.secondary-nav-->
