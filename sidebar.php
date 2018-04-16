@@ -12,26 +12,12 @@
 			<header><h3>Post Archive</h3></header>
 			<ul class="list-links">
 				<?php wp_get_archives( $args ); ?> 
-				<li><a href="#">June 2014</a></li>
-				<li><a href="#">May 2014</a></li>
-				<li><a href="#">April 2014</a></li>
-				<li><a href="#">March 2014</a></li>
-				<li><a href="#">January 2014</a></li>
-				<li><a href="#">December 2013</a></li>
-				<li><a href="#">November 2013</a></li>
-				<li><a href="#">August 2013</a></li>
 			</ul>
 		</aside><!-- /#post-archive -->
 		<aside id="categories">
 			<header><h3>Categories</h3></header>
 			<ul class="list-links">
-				<li><a href="#">Architecture</a></li>
-				<li><a href="#">Apartments</a></li>
-				<li><a href="#">Design</a></li>
-				<li><a href="#">Do it yourself</a></li>
-				<li><a href="#">Housing</a></li>
-				<li><a href="#">Interior</a></li>
-				<li><a href="#">Trends</a></li>
+				<?php wp_list_categories('title_li='); ?>
 			</ul>
 		</aside><!-- /#categories -->
 	</section><!-- /#sidebar -->
