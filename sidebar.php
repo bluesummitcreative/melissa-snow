@@ -4,8 +4,7 @@
 		<aside id="search">
 			<header><h3>Search</h3></header>
 			<div class="input-group">
-				<input type="text" class="form-control framed" placeholder="Enter Keyword">
-				<span class="input-group-btn"><button class="btn btn-primary" type="button"><i class="fa fa-search"></i></button></span>
+				<?php get_search_form(); ?>
 			</div><!-- /input-group -->
 		</aside>
 		<aside id="post-archive">
