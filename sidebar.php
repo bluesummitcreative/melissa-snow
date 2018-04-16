@@ -3,9 +3,7 @@
 	<section id="sidebar" class="sidebar">
 		<aside id="search">
 			<header><h3>Search</h3></header>
-			<div class="input-group">
-				<?php get_search_form(); ?>
-			</div><!-- /input-group -->
+			<?php get_search_form(); ?>
 		</aside>
 		<aside id="post-archive">
 			<header><h3>Post Archive</h3></header>
