@@ -23,28 +23,9 @@
             <div class="main-nav">
                 <div class="brand"><a href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt=""></a></div><!--/.brand-->
                 <nav>
-                    <ul>
-                        <li class="active"><a href="front-page.html">Home</a></li>
-                        <li><a href="about.html">About Me</a></li>
-                        <li><a href="change-your-life.html">Change Your Life</a></li>
-                        <li><a href="workshops.html">Workshops</a></li>
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="meet-me.html">Meet Me</a></li>
-                    </ul>
 		     <?php
                         $defaults = array(
-                            
-                            'theme_location'  => '',
                             'menu'            => 'Header Menu',
-                            'container'       => 'div',
-                            'container_class' => 'collapse navbar-collapse',
-                            'container_id'    => 'bs-example-navbar-collapse-1',
-                            'menu_class'      => 'nav navbar-nav navbar-right',
-                            'menu_id'         => '',
-                            'before'          => '',
-                            'after'           => '',
-                            'link_before'     => '',
-                            'link_after'      => '',
                             'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
                             'depth'           => 0,
                             'walker'          => new bsc_walker()	
