@@ -21,7 +21,7 @@
             </div>
             <!--/.secondary-nav-->
             <div class="main-nav">
-                <div class="brand"><a href="<?php echo esc_url(home_url()); ?>"><img src="<?php echo get_template_directory_uri(); ?>/assets/img/logo.png" alt=""></a></div><!--/.brand-->
+                <div class="brand"><a href="<?php echo esc_url(home_url()); ?>"><img src="/wp-content/uploads/melissa_M_snow_logo.png" alt=""></a></div><!--/.brand-->
                 <nav>
 		     <?php
                         $defaults = array(
