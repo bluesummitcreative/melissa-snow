@@ -11,6 +11,7 @@
 		<aside id="post-archive">
 			<header><h3>Post Archive</h3></header>
 			<ul class="list-links">
+				<?php wp_get_archives( $args ); ?> 
 				<li><a href="#">June 2014</a></li>
 				<li><a href="#">May 2014</a></li>
 				<li><a href="#">April 2014</a></li>
