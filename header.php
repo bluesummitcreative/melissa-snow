@@ -31,6 +31,26 @@
                         <li><a href="blog.html">Blog</a></li>
                         <li><a href="meet-me.html">Meet Me</a></li>
                     </ul>
+		     <?php
+                        $defaults = array(
+                            
+                            'theme_location'  => '',
+                            'menu'            => 'Header Menu',
+                            'container'       => 'div',
+                            'container_class' => 'collapse navbar-collapse',
+                            'container_id'    => 'bs-example-navbar-collapse-1',
+                            'menu_class'      => 'nav navbar-nav navbar-right',
+                            'menu_id'         => '',
+                            'before'          => '',
+                            'after'           => '',
+                            'link_before'     => '',
+                            'link_after'      => '',
+                            'items_wrap'      => '<ul id="%1$s" class="%2$s">%3$s</ul>',
+                            'depth'           => 0,
+                            'walker'          => new bsc_walker()	
+                        );
+                        wp_nav_menu( $defaults );
+                     ?>
                     <div class="nav-toggle"><i class="icon_menu"></i></div>
                 </nav>
                 <a href="#make-an-appointment" class="icon-shortcut"><i class="icon_calendar" title="Make an Appointment"></i></a><!--/.icon-->
