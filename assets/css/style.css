@@ -142,7 +142,7 @@ Headers:		'Lato', sans-serif;
   line-height: 70px;
 }
 .navigation .main-nav .icon-shortcut:hover {
-  background-color: #319d40;
+  background-color: #ea1c24;
 }
 .navigation .main-nav .icon-shortcut:hover i {
   -moz-transform: rotateZ(360deg) scale(0.8);
@@ -1197,7 +1197,7 @@ textarea {
   padding: 10px 15px;
 }
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-  background-color: #319d40;
+  background-color: #ea1c24;
 }
 .btn.btn-primary.btn-white {
   background-color: #fff;
