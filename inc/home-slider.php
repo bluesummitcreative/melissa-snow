@@ -25,30 +25,6 @@
                         data-start="700"><a href="#five-steps-to-success" class="link underline scroll">Tell Me How</a>
                    </div>
                </li>
-               <li>
-                    <img src="<?php echo get_template_directory_uri(); ?>/assets/img/slide-02.jpg" alt="">
-                    <div class="tp-caption"
-                         data-x="left" data-hoffset="0"
-                         data-y="top" data-voffset="150"
-                         data-transform_idle="o:1;"
-                         data-transform_in="x:50px;opacity:0;s:700;e:Power3.easeInOut;"
-                         data-start="500"><h4 class="opacity-40 text-color-white">I will tell you how to</h4>
-                    </div>
-                    <div class="tp-caption"
-                         data-x="left" data-hoffset="0"
-                         data-y="top" data-voffset="210"
-                         data-transform_idle="o:1;"
-                         data-transform_in="x:50px;opacity:0;s:700;e:Power3.easeInOut;"
-                         data-start="600"><h1 class="text-color-white">Restart Your Career<br>To Be more Successful</h1>
-                    </div>
-                    <div class="tp-caption"
-                         data-x="left" data-hoffset="0"
-                         data-y="top" data-voffset="410"
-                         data-transform_idle="o:1;"
-                         data-transform_in="x:50px;opacity:0;s:700;e:Power3.easeInOut;"
-                         data-start="700"><a href="#five-steps-to-success" class="link underline scroll">Tell Me How</a>
-                    </div>
-                </li>
             </ul>
         </div>
     </div>
