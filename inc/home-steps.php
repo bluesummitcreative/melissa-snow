@@ -6,7 +6,7 @@
 					<div class="step width-20">
 						<figure>
 							<aside><?php echo $counter; ?>.</aside>
-							<div class="bar height-20">
+							<div class="bar height-<?php $height = 20; if ($counter > 1) { echo $height*$counter; } else { echo $height; } ?>">
 								<div class="arrow"></div>
 							</div>
 						</figure>
