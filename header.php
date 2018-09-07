@@ -34,7 +34,6 @@
                      ?>
                     <div class="nav-toggle"><i class="icon_menu"></i></div>
                 </nav>
-                <a href="#make-an-appointment" class="icon-shortcut"><i class="icon_calendar" title="Make an Appointment"></i></a><!--/.icon-->
             </div>
             <!--/.main-nav-->
         </div>
