@@ -18,7 +18,7 @@
 				</div>
 				<!--/ .steps-->
 				<div class="center">
-					<a href="/contact/" class="btn btn-primary btn-big">Contact Me!</a>
+					<a href="/contact/" class="btn btn-primary">Contact Me!</a>
 				</div>
 			</div>
 			<!--/ .container-->
