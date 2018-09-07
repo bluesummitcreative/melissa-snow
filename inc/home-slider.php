@@ -2,7 +2,7 @@
         <div class="rev-slider">
             <ul>
                <li>
-                   <img src="<?php echo get_template_directory_uri(); ?>/assets/img/slide.jpg" alt="">
+                   <img src="/wp-content/uploads/Melissa-Snow-Header-2018-001.jpg" alt="">
                    <div class="tp-caption"
                         data-x="left" data-hoffset="0"
                         data-y="top" data-voffset="150"
