@@ -8,21 +8,21 @@
                         data-y="top" data-voffset="150"
                         data-transform_idle="o:1;"
                         data-transform_in="x:50px;opacity:0;s:700;e:Power3.easeInOut;"
-                        data-start="500"><h4 class="opacity-40">Hi, I'm Jane Doe. A Personal Mentor</h4>
+                        data-start="500"><h1 class="opacity-40">Melissa M Snow.<br /><span>Certified Relationship Coach</span></h1>
                    </div>
                    <div class="tp-caption"
                         data-x="left" data-hoffset="0"
                         data-y="top" data-voffset="210"
                         data-transform_idle="o:1;"
                         data-transform_in="x:50px;opacity:0;s:700;e:Power3.easeInOut;"
-                        data-start="600"><h1>Uncover the Secret<br>of Successful Life!</h1>
+                        data-start="600"><h4>Uncover the Secret<br>of Successful Life!</h4>
                    </div>
                    <div class="tp-caption"
                         data-x="left" data-hoffset="0"
                         data-y="top" data-voffset="410"
                         data-transform_idle="o:1;"
                         data-transform_in="x:50px;opacity:0;s:700;e:Power3.easeInOut;"
-                        data-start="700"><a href="#five-steps-to-success" class="link underline scroll">Tell Me How</a>
+                        data-start="700"><a href="#five-steps-to-success" class="btn btn-primary">Apply for Coaching</a>
                    </div>
                </li>
             </ul>
