@@ -15,7 +15,7 @@
                         data-y="top" data-voffset="521"
                         data-transform_idle="o:1;"
                         data-transform_in="x:50px;opacity:0;s:700;e:Power3.easeInOut;"
-                        data-start="700"><a href="#five-steps-to-success" class="btn btn-primary">Apply for Coaching</a>
+                        data-start="700"><a href="#five-steps-to-success" class="btn btn-primary">Apply for Coaching >></a>
                    </div>
                </li>
             </ul>
