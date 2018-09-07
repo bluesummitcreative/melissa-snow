@@ -1,5 +1,5 @@
 <div class="container">
-			<div class="block center">
+			<div class="block center" style="padding-top: 0;">
 				<h2 class="text-color-white half-bottom-margin"><strong>Your Daily Motivation Quote</strong></h2>
 				<div class="row">
 					<div class="col-md-6 col-sm-6 col-md-offset-3 col-sm-offset-3">
