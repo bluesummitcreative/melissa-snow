@@ -3,7 +3,7 @@
 	function bsc_enqueue_styles_scripts() {
 		wp_enqueue_style( 'font-awesome', get_template_directory_uri() . '/assets/fonts/font-awesome.css');
 		wp_enqueue_style( 'elegant-fonts', get_template_directory_uri() . '/assets/fonts/elegant-fonts.css');
-		wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Lato:400,300,700,900|Raleway:400,700');
+		wp_enqueue_style( 'google-fonts', '//fonts.googleapis.com/css?family=Lato:400,300,700,900|Raleway:300,400,700');
 		wp_enqueue_style( 'bootstrap', get_template_directory_uri() . '/assets/bootstrap/css/bootstrap.css');
 		wp_enqueue_style( 'zabuto_calendar.min', get_template_directory_uri() . '/assets/css/zabuto_calendar.min.css');
 		wp_enqueue_style( 'bootstrap-select.min', get_template_directory_uri() . '/assets/css/bootstrap-select.min.css');
