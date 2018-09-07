@@ -1,5 +1,5 @@
-<div class="block" style="background:url(/wp-content/uploads/opt-in-background.jpg) no-repeat;">
-			<div class="container-fluid">
+<div class="block">
+			<div class="container-fluid" style="background:url(/wp-content/uploads/opt-in-background.jpg) no-repeat;">
 				<h2 class="center">Want to improve the relationships in your life?</h2>
 				<h3 class="center">Enter your name and email and I will send you my free e-book, <strong>“Ten Secrets to Having the Love You Want”</strong></h3>
 			</div>
