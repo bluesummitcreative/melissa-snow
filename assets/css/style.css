@@ -1086,7 +1086,7 @@ input[type="text"], input[type="email"], input[type="date"], input[type="time"],
   transition: 0.3s;
   -webkit-appearance: none;
   background-color: #fff;
-  border: none;
+  /*border: none;*/
   font-size: 16px;
   font-weight: 400;
   outline: none !important;
