@@ -5,7 +5,7 @@
     min-height: 100%;
     background-position: center;">
 				<h2 class="center">Want to improve the relationships in your life?</h2>
-				<h3 class="center" style="font-size:16px">Enter your name and email and I will send you my free e-book, <strong>“Ten Secrets to Having the Love You Want”</strong></h3>
+				<h3 class="center" style="font-size:20px;">Enter your name and email and I will send you my free e-book, <strong>“Ten Secrets to Having the Love You Want”</strong></h3>
 			</div>
 			<div class="container-fluid">
 				<div class="row" style="background:#acbdc0;">
