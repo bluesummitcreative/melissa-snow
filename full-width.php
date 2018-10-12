@@ -5,7 +5,6 @@
 	echo '<div class="container">
         	<div class="row">';
 		get_template_part('inc/loop');
-		get_sidebar();
 	echo '	</div><!-- /.row -->
     	</div><!-- /.container -->';
 	get_footer();
