@@ -1,6 +1,9 @@
 <!-- sidebar -->
 <div class="col-md-4 col-sm-4">
 	<section id="sidebar" class="sidebar">
+		<aside id="sidebar-cta">
+			<?php echo do shortcode('[gravityform id="3" title="false" description="false" ajax="true" tabindex="10"]'); ?>
+		</aside>
 		<aside id="search">
 			<header><h3>Search</h3></header>
 			<?php get_search_form(); ?>
