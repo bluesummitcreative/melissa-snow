@@ -1,5 +1,5 @@
 <?php
-  /*Full-Width, No Sidebar*/
+  /*Template Name: Full-Width, No Sidebar*/
 	get_header(); 
 	get_template_part('inc/page-header');
 	echo '<div class="container">
