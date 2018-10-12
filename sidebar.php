@@ -2,6 +2,7 @@
 <div class="col-md-4 col-sm-4">
 	<section id="sidebar" class="sidebar">
 		<aside id="sidebar-cta">
+			<img src="/wp-content/uploads/snow-left-column-cta-top.jpg" alt="sidebar-cta" "class="img-fluid">
 			<?php echo do_shortcode('[gravityform id="3" title="false" description="false" ajax="true" tabindex="10"]'); ?>
 		</aside>
 		<aside id="search">
