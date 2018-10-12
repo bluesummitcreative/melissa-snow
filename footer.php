@@ -3,7 +3,7 @@
             <div class="row">
                 <div class="col-md-8 col-sm-8">
                     <div class="left">
-                        <span>Copyright &copy <?php echo date('Y'); ?> <?php bloginfo('name'); ?> <span class="pipe hidden-xs">|</span><br class="hidden-sm hidden-md hidden-lg" /> <a<?php if (!is_front_page()) { ?> rel="nofollow"<?php } ?> target="_blank" href="https://www.bluesummitcreative.com/">Website Design by Blue Summit Creative</a></span>
+                        <span>Copyright &copy <?php echo date('Y'); ?> <?php bloginfo('name'); ?>
                         <div class="bg-left"></div>
                     </div>
                 </div>
