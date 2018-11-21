@@ -8,8 +8,8 @@
 			<?php } else {}?>
 			<header><h2><a href="<?php the_permalink(); ?>"><?php the_title(); ?></a></h2></header>
 			<figure class="meta">
-				<i class="fa fa-user"></i><?php the_author(); ?>
-				<i class="fa fa-calendar"></i><?php the_time( get_option( 'date_format' ) ); ?>
+				<i class="fa fa-user"></i> <?php the_author(); ?>&nbsp;
+				<i class="fa fa-calendar"></i> <?php the_time( get_option( 'date_format' ) ); ?>
 				<div class="tags">
 					<?php the_category(', '); ?>
 				</div>
