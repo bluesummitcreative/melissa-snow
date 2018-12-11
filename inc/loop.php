@@ -5,13 +5,16 @@
 	<div class="col-md-8 col-sm-8">
 		<?php } ?>
 	<section id="content">
-		
+		<div class="row">
+			<div class="col-md-12">
 		<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
 			<?php if(has_post_thumbnail()) { ?>
 				<a href="<?php the_permalink(); ?>"><?php the_post_thumbnail('full',array('class' => 'img-responsive'));?></a>
 			<?php } else {}?>
 			<?php the_content(); ?>
 		<?php endwhile; endif; ?>
+			</div>
+		</div>
 	</section><!-- /#content -->
 </div><!-- /.col-md-9 -->
 <!-- end Content -->
