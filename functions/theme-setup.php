@@ -1,8 +1,8 @@
 <?php
 	if ( ! function_exists('bsc_after_theme_setup') ) {
 		function bsc_after_theme_setup()  {
-		add_theme_support( 'post-formats', array( ) );
-		add_theme_support( 'post-thumbnails', array( ) );		
+		add_theme_support( 'post-formats', array( 'aside','chat','gallery','link','image','quote','status','video' ) );
+		add_theme_support( 'post-thumbnails');		
 		add_theme_support( 'html5', array( 'search-form', 'comment-form', 'comment-list', 'gallery', 'caption' ) );
 		add_theme_support( 'title-tag' );
 		
